@@ -1,0 +1,23 @@
+# Python specific
+*.pyc
+__pycache__/
+venv/
+env/
+*.env
+
+# Dependency directories
+lib/
+lib64/
+local/
+locale/
+build/
+dist/
+node_modules/
+
+# IDE specific
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
